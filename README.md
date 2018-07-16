@@ -1,5 +1,6 @@
 # BufferedImageTest
 An example about BufferedImage of Java.
+IDE: Eclipse
 
 This example shows that:
 1. Loads an image into a BufferedImage.
